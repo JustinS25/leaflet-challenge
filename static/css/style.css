@@ -8,3 +8,12 @@ body,
 html {
   height: 100%;
 }
+
+/* Need to provide styling for legend in .css file. Information provided by ASK BCS */
+.legend i {
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin-right: 8px;
+  opacity: 0.7;
+}
